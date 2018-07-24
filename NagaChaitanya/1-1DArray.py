@@ -1,5 +1,6 @@
 
 a= [x for x in range(9)]
+print(a)
 print(*a, sep=',')
 
 """
